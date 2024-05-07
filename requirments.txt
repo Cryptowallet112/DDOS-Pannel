@@ -1,0 +1,13 @@
+requests
+threading
+time
+datetime
+random
+string
+socket
+PySocks
+ssl
+colorama
+cloudscraper
+urllib
+urllib.parase
